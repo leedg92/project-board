@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd37779-aec3-4445-ab64-44fec21e6639" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-board/src/main/java/com/projectboard/ProjectBoardApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-board/src/main/java/com/projectboard/ProjectBoardApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="ebd37779-aec3-4445-ab64-44fec21e6639" name="변경" comment="변경" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666009270354</updated>
       <workItem from="1666009271528" duration="453000" />
-      <workItem from="1667309117615" duration="201000" />
+      <workItem from="1667309117615" duration="346000" />
     </task>
     <servers />
   </component>
@@ -77,9 +73,51 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
+        <entry key="fe6726f1-7959-4cc1-9b96-dfb0a207a06e">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="fe6726f1-7959-4cc1-9b96-dfb0a207a06e" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
