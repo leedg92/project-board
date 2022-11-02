@@ -73,7 +73,7 @@ public class DataRestTest {
 
     }
 
-    @DisplayName("[api] 게시글 단건 조회")
+    @DisplayName("[api] 게시글 단 건 조회")
     @Test
     void givenNothing_whenRequestingArticleComment_thenReturnArticlesCommentJsonResponse() throws Exception {
         // Given
