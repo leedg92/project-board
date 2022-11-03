@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebd37779-aec3-4445-ab64-44fec21e6639" name="변경" comment="20221019">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/projectboard/controller/ArticleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/projectboard/controller/ArticleControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/projectboard/controller/ArticleControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/projectboard/controller/ArticleControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,7 +253,7 @@
       <updated>1666009270354</updated>
       <workItem from="1666009271528" duration="453000" />
       <workItem from="1667309117615" duration="346000" />
-      <workItem from="1667478184284" duration="2095000" />
+      <workItem from="1667478184284" duration="2611000" />
     </task>
     <servers />
   </component>
