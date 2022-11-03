@@ -5,7 +5,7 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 /src/main/generated
-/.idea/
+**/.idea/workspace.xml
 ### STS ###
 .apt_generated
 .classpath

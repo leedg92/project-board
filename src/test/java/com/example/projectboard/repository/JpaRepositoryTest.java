@@ -2,6 +2,7 @@ package com.example.projectboard.repository;
 
 import com.example.projectboard.config.JPAConfig;
 import com.example.projectboard.domain.Article;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -29,6 +30,7 @@ class JpaRepositoryTest {
         this.articleCommentRepository = articleCommentRepository;
     }
 
+    @Disabled("구현 중")
     @DisplayName("select 테스트")
     @Test
     void givenTestData_whenSelecting_thenWorksFine(){
@@ -43,6 +45,7 @@ class JpaRepositoryTest {
                 .hasSize(0);
     }
 
+    @Disabled("구현 중")
     @DisplayName("insert 테스트")
     @Test
     void givenTestData_whenInserting_thenWorksFine(){
@@ -59,6 +62,7 @@ class JpaRepositoryTest {
                 .isEqualTo(previousCount + 1);
     }
 
+    @Disabled("구현 중")
     @DisplayName("update 테스트")
     @Test
     void givenTestData_whenUpdating_thenWorksFine(){
@@ -76,6 +80,7 @@ class JpaRepositoryTest {
         assertThat(savedArticle).hasFieldOrPropertyWithValue("hashtag",updatedHashtag);
     }
 
+    @Disabled("구현 중")
     @DisplayName("delete 테스트")
     @Test
     void givenTestData_whenDeleting_thenWorksFine(){

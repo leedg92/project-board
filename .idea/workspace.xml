@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/example/projectboard/controller/ArticleControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/projectboard/controller/ArticleControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/projectboard/repository/JpaRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/projectboard/repository/JpaRepositoryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +117,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.ArticleControllerTest">
+  <component name="RunManager" selected="Gradle.project-board [build]">
     <configuration name="ArticleControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -235,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.project-board [build]" />
         <item itemvalue="Gradle.ArticleControllerTest" />
         <item itemvalue="Gradle.DataRestTest.givenNothing_whenRequestingArticleComment_thenReturnArticlesCommentJsonResponse" />
         <item itemvalue="Gradle.project-board [clean]" />
         <item itemvalue="Gradle.project-board [classes]" />
-        <item itemvalue="Gradle.project-board [build]" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +254,7 @@
       <updated>1666009270354</updated>
       <workItem from="1666009271528" duration="453000" />
       <workItem from="1667309117615" duration="346000" />
-      <workItem from="1667478184284" duration="2611000" />
+      <workItem from="1667478184284" duration="3154000" />
     </task>
     <servers />
   </component>
